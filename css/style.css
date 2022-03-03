@@ -28,11 +28,53 @@
 
 /* CSS Main - Interfaccia*/
 #interfaccia{
-  height: 500px;
+  height: 400px;
   background-color: goldenrod;
 }
 
 /* CSS Main - Descrizione*/
+.clearfix::after{
+  content: "";
+  display: table;
+  clear: both;
+}
+
+#descrizione{
+  height: 500px;
+  background-color: blue;
+}
+
+/* CSS Main - Descrizione - Contenente*/
+#descr-titolo{
+  height: 80px;
+  background-color: #ABCFE7;
+  margin-bottom: 20px;
+}
+
+.col,.col-ct{
+  float: left;
+  margin-bottom: 20px;
+}
+
+.col{
+  width: 19%;
+  height: 380px;
+  background-color: #ABCFE7;
+}
+
+.col-sx{
+  margin-right: 1%;
+}
+
+.col-ct{
+  width: 60%;
+  height: 380px;
+  background-color: #ABCFE7;
+}
+
+.col-dx{
+  margin-left: 1%;
+}
 
 /* 
   Fine CSS Main
