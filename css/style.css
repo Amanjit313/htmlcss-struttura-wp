@@ -6,7 +6,7 @@
 }
 
 .container{
-  margin: 0 400px 40px 400px;
+  margin: 0 400px 25px 400px;
 }
 
 /* 
@@ -22,5 +22,20 @@
   Fine CSS Header
 */
 
+/* 
+  Inizio CSS Main
+*/
+
+/* CSS Main - Interfaccia*/
+#interfaccia{
+  height: 500px;
+  background-color: goldenrod;
+}
+
+/* CSS Main - Descrizione*/
+
+/* 
+  Fine CSS Main
+*/
 
 
