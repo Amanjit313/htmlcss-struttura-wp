@@ -13,6 +13,7 @@
   Inizio CSS Header
 */
 
+/* CSS Header - Titolo*/
 #titolo{
   height: 100px;
   background-color: pink;
@@ -80,4 +81,16 @@
   Fine CSS Main
 */
 
+/* 
+  Inizio CSS Footer
+*/
 
+/* CSS Footer - Copyright*/
+#copyright{
+  height: 50px;
+  background-color: purple;
+}
+
+/* 
+  Fine CSS Footer
+*/
