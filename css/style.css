@@ -1,0 +1,26 @@
+/* CSS Generale Body*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container{
+  margin: 0 400px 40px 400px;
+}
+
+/* 
+  Inizio CSS Header
+*/
+
+#titolo{
+  height: 100px;
+  background-color: pink;
+}
+
+/* 
+  Fine CSS Header
+*/
+
+
+
